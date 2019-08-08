@@ -56,7 +56,7 @@ The key is to use the headings to structure your information in a useful (and me
 
 Make a file `recipe.html` that renders a recipe. It should look similar to this:
 
-![screenshot](assets/screenshot.png)
+![screenshot](https://github.com/joinpursuit/Pursuit-Core-Web-HTML-Introduction-Lab/blob/master/images/pbjImage.png)
 
 Include the following:
 
@@ -71,7 +71,7 @@ Include the following:
 
 Make a file `paymentForm.html` that displays a form to enter payment information.  It should like similar to this:
 
-![paymentFromImage]
+![paymentFromImage](https://github.com/joinpursuit/Pursuit-Core-Web-HTML-Introduction-Lab/blob/master/images/paymentForm.png)
 
 Make sure to include the following elements:
 
